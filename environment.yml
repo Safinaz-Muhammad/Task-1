@@ -1,0 +1,32 @@
+name: medsegenv
+channels:
+  - pytorch
+  - defaults
+dependencies:
+  - cpuonly=2.0=0
+  - pip=25.2=pyhc872135_0
+  - python=3.9.23=h716150d_0
+  - python-flatbuffers=24.3.25=py39haa95532_0
+  - pytorch=2.5.1=cpu_mkl_py39h0452e45_104
+  - pytorch-mutex=1.0=cpu
+  - torchaudio=2.5.1=py39hc64d2fc_0
+  - torchvision=0.20.1=cpu_py39h99a9fa7_2
+  - pip:
+      - jupyter==1.1.1
+      - jupyter-client==8.6.3
+      - jupyter-console==6.6.3
+      - jupyter-core==5.8.1
+      - jupyter-events==0.12.0
+      - jupyter-lsp==2.3.0
+      - jupyter-server==2.17.0
+      - jupyter-server-terminals==0.5.3
+      - jupyterlab==4.4.7
+      - jupyterlab-pygments==0.3.0
+      - jupyterlab-server==2.27.3
+      - jupyterlab-widgets==3.0.15
+      - matplotlib==3.9.4
+      - matplotlib-inline==0.1.7
+      - monai==1.5.0
+      - scikit-learn==1.6.1
+      - simpleitk==2.5.2
+prefix: C:\anaconda3\envs\medsegenv
