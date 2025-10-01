@@ -1,9 +1,0 @@
-torch
-torchvision
-torchaudio
-tensorflow
-monai
-SimpleITK
-scikit-learn
-matplotlib
-jupyter
